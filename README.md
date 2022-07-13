@@ -1,4 +1,4 @@
-# Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps
+# Standardization of Ig datasets using universal numbering system and auto generating Bridged 1D maps
 
 
 # Table of Contents
