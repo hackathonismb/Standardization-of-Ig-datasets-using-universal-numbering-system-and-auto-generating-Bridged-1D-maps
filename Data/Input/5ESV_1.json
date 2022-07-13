@@ -1,0 +1,672 @@
+{
+	"residues":  [
+		{
+                         "res": "E",
+                         "kabat": "1",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "2",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "Q",
+                         "kabat": "3",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "4",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "5",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "E",
+                         "kabat": "6",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "7",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "8",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "9",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "10",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "11",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "12",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "13",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "P",
+                         "kabat": "14",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "15",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "16",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "17",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "18",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "19",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "20",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "22",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "C",
+                         "kabat": "22",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "23",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "24",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "25",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "26",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "27",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "I",
+                         "kabat": "28",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "29",
+                         "contacts":    5
+               	},
+		{
+                         "res": "E",
+                         "kabat": "30",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "31",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "32",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "33",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "34",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "35",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "W",
+                         "kabat": "36",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "37",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "38",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "Q",
+                         "kabat": "39",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "40",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "P",
+                         "kabat": "41",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "42",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "K",
+                         "kabat": "43",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "44",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "45",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "H",
+                         "kabat": "46",
+                         "contacts": "2"
+               	},
+		{
+                         "res": "W",
+                         "kabat": "47",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "48",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "49",
+                         "contacts": "18"   
+               	},
+		{
+                         "res": "G",
+                         "kabat": "50",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "M",
+                         "kabat": "51",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "52",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "W",
+                         "kabat": "52A",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "53",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "54",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "55",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "56",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "57",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "58",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "59",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "60",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "61",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "62",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "63",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "64",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "65",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "66",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "67",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "68",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "M",
+                         "kabat": "69",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "70",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "71",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "72",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "73",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "74",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "75",
+                         "contacts":    2
+               	},
+		{
+                         "res": "N",
+                         "kabat": "76",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "I",
+                         "kabat": "77",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "78",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "79",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "80",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "Q",
+                         "kabat": "81",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "M",
+                         "kabat": "82",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "K",
+                         "kabat": "82A",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "N",
+                         "kabat": "82B",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "82C",
+                         "contacts":    1
+               	},
+		{
+                         "res": "R",
+                         "kabat": "83",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "84",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "85",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "86",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "87",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "88",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "89",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "90",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "91",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "C",
+                         "kabat": "92",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "A",
+                         "kabat": "93",
+                         "contacts": "11"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "94",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "95",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "96",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "97",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "98",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "99",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "I",
+                         "kabat": "100",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "100A",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "100B",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "Q",
+                         "kabat": "100C",
+                         "contacts": "4"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "100D",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "I",
+                         "kabat": "100E",
+                         "contacts": "1"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "100F",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "100G",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "K",
+                         "kabat": "100H",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "100I",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "100J",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "100K",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "100L",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "100M",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "W",
+                         "kabat": "100N",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "Y",
+                         "kabat": "100O",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "F",
+                         "kabat": "100P",
+                         "contacts": "6"
+               	},
+		{
+                         "res": "D",
+                         "kabat": "101",
+                         "contacts": "8"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "102",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "W",
+                         "kabat": "103",
+                         "contacts": "3"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "104",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "R",
+                         "kabat": "105",
+                         "contacts": "7"
+               	},
+		{
+                         "res": "G",
+                         "kabat": "106",
+                         "contacts": "0"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "107",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "L",
+                         "kabat": "108",
+                         "contacts": "15"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "109",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "T",
+                         "kabat": "110",
+                         "contacts": "16"
+               	},
+		{
+                         "res": "V",
+                         "kabat": "111",
+                         "contacts": "22"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "112",
+                         "contacts": "18"
+               	},
+		{
+                         "res": "S",
+                         "kabat": "113",
+                         "contacts": "18"
+               	},
+		{
+                         "null": "null"
+		}
+	]
+}
