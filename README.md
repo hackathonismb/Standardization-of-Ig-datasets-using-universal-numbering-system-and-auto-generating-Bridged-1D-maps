@@ -41,3 +41,11 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 * Prasanthkumar
 
 * Philippe Youkharibache
+
+
+**References**
+1. Wang, J., Youkharibache, P., Marchler-Bauer, A., Lanczycki, C., Zhang, D., Lu, S., ... & Ge, Y. (2022). iCn3D: From Web-Based 3D Viewer to Structural Analysis Tool in Batch Mode. Frontiers in Molecular Biosciences, 102.
+
+2. Youkharibache, P. (2021). Topological and Structural Plasticity of the single Ig fold and the double Ig fold present in CD19. Biomolecules, 11(9), 1290.
+
+3. Youkharibache, P., Cachau, R., Madej, T., & Wang, J. (2020). Using iCn3D and the World Wide Web for structure-based collaborative research: Analyzing molecular interactions at the root of COVID-19. bioRxiv.
