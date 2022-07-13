@@ -1,5 +1,7 @@
 # Standardization of Ig datasets using universal numbering system and auto generating Bridged 1D maps
 
+![Picture1](https://user-images.githubusercontent.com/105613466/178797106-9e7bfb06-b3c1-4df2-9c9a-d8039dee2122.png)
+
 
 # Table of Contents
   * [Statement of the Problem](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
