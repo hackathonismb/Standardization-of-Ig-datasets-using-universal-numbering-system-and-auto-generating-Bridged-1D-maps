@@ -28,16 +28,16 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 
 **Team**
 
-Umesh Khaniya
+-Umesh Khaniya
 
-Chirag Patel
+-Chirag Patel
 
-Caesar Tawfeeq
+-Caesar Tawfeeq
 
-Siddhi Jani
+-Siddhi Jani
 
-Sujitkumar
+-Sujitkumar
 
-Prasanthkumar
+-Prasanthkumar
 
-Philippe Youkharibache
+-Philippe Youkharibache
