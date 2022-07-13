@@ -1,4 +1,5 @@
 # Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps
+
 **1. Statement of the Problem**
 
 The 1D protein sequence contains information about amino acid residues, but not about essential topological information. On the other hand, 3D structure gives topological annotation and visualization of domain interactions but lacks amino acid residue information and is difficult to comprehend biological function. 1D representation maps contain both sequence information and 3D domain assembly, allowing biologists to grasp residue connections and, ultimately, function.
@@ -15,7 +16,7 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 
 **Generate 1D maps for domains that have no preceding 3D annotation:** Employing machine learning, identify the main traits in order to construct innovative 1D maps from sequence data.
 
-**What is ProteinContactMaps?**
+**4. What is ProteinContactMaps?**
 
 1. iCn3D parses a structure to get a list of residue contacts.
 2. The relevant sequence is retrieved and the numbering of the sequences is synchronized. This approach is required to build a correspondence in the 1D map positions in order to compare two or more sequences. When available, we utilize the Kabat reference sequence number. This need can be eased by matching the protein sequences to be compared and assigning a sequence number to match the alignment.
