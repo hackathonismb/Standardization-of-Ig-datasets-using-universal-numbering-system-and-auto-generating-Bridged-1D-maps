@@ -49,3 +49,6 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 2. Youkharibache, P. (2021). Topological and Structural Plasticity of the single Ig fold and the double Ig fold present in CD19. Biomolecules, 11(9), 1290.
 
 3. Youkharibache, P., Cachau, R., Madej, T., & Wang, J. (2020). Using iCn3D and the World Wide Web for structure-based collaborative research: Analyzing molecular interactions at the root of COVID-19. bioRxiv.
+
+**License**
+Licensed under MIT License - Copyright (c) 2022 hackathonismb (Refer LICENSE file for more details)
