@@ -45,17 +45,11 @@ data/output and data/output2 -> folder where the colorized (by number of contact
 **Team**
 
 * Umesh Khaniya
-
 * Chirag Patel
-
 * Caesar Tawfeeq
-
 * Siddhi Jani
-
 * Sujitkumar
-
 * Prasanthkumar
-
 * Philippe Youkharibache
 
 
