@@ -25,7 +25,7 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 5. If no template exists, a fresh 1D plot based on residue contact information must be created. Based on the information from the contact map, this technique is being constructed.
 6. When a template as a modification of the previous template is available, a new 1D ProteinContactMaps can be constructed. This is an advantageous method for comparing ProteoMaps. Color coding 1D attributes acquired in the improved 1D sequence can be used to enhance ProteoMaps.
 
-**How to use ProteoMap?**
+**5. How to use ProteoMap?**
 
 scripts/excel_template.py -> can be called with a parameter 1 or 0 from command line where the value 1 creates the template(s) with the color coding for the contact maps and 0 creates the standard ones.
 
