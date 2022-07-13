@@ -1,5 +1,16 @@
 # Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps
 
+
+# Table of Contents
+  * Statement of the Problem
+  * Why is it significant?
+  * Objectives
+  * What is ProteinContactMaps?
+  * How to use ProteoMap?
+  * Team
+  * References
+  * License 
+
 ## 1. Statement of the Problem
 
 The 1D protein sequence contains information about amino acid residues, but not about essential topological information. On the other hand, 3D structure gives topological annotation and visualization of domain interactions but lacks amino acid residue information and is difficult to comprehend biological function. 1D representation maps contain both sequence information and 3D domain assembly, allowing biologists to grasp residue connections and, ultimately, function.
