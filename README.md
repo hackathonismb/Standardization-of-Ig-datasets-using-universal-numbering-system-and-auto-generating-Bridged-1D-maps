@@ -46,7 +46,7 @@ scripts/.xlsx --> templates
 
 data/source -> contain the .txt files which are the output of ANARCi (http://opig.stats.ox.ac.uk/webapps/newsabdab/sabpred/anarci/) for Kabat numbering normalization
 
-.txt to .json conversion is provided by an excel macro (Chirag)
+.txt to .json conversion is provided by an excel macro 
 
 data/input_files -> folder with the json files
 
