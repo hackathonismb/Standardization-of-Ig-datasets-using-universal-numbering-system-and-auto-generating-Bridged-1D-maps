@@ -2,13 +2,13 @@
 
 # Table of Contents
   * [Statement of the Problem](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [Why is it significant?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [Objectives](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [What is ProteinContactMaps?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [How to use ProteoMap?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [Team](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [References](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
-  * [License](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#1-statement-of-the-problem)
+  * [Why is it significant?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#2-why-is-it-significant)
+  * [Objectives](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#3-objectives)
+  * [What is ProteinContactMaps?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#4-what-is-proteincontactmaps)
+  * [How to use ProteoMap?](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#5-how-to-use-proteomap)
+  * [Team](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#6-team)
+  * [References](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#7-references)
+  * [License](https://github.com/hackathonismb/Standardization-of-Ig-datasets-using-universal-numbering-system-and-auto-generating-Bridged-1D-maps/#8-license)
 
 ## 1. Statement of the Problem
 
