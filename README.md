@@ -15,6 +15,15 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 
 **Generate 1D maps for domains that have no preceding 3D annotation:** Employing machine learning, identify the main traits in order to construct innovative 1D maps from sequence data.
 
+**What is ProteinContactMaps?**
+
+1. iCn3D parses a structure to get a list of residue contacts.
+2. The relevant sequence is retrieved and the numbering of the sequences is synchronized. This approach is required to build a correspondence in the 1D map positions in order to compare two or more sequences. When available, we utilize the Kabat reference sequence number. This need can be eased by matching the protein sequences to be compared and assigning a sequence number to match the alignment.
+3. A json file with an upgraded 1D sequence is created. The goal of this stage is to collect per-residue data (i.e. number of contacts is makes with other residues; list of residues it interacts with, etc.)
+4. The augmented 1D representations can be developed applying the enriched 1D representation (Logo plots, Contact maps, etc.)
+5. If no template exists, a fresh 1D plot based on residue contact information must be created. Based on the information from the contact map, this technique is being constructed.
+6. When a template as a modification of the previous template is available, a new 1D ProteinContactMaps can be constructed. This is an advantageous method for comparing ProteoMaps. Color coding 1D attributes acquired in the improved 1D sequence can be used to enhance ProteoMaps.
+
 
 **Team**
 
