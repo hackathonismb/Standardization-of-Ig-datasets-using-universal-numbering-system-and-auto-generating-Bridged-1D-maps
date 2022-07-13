@@ -4,11 +4,11 @@
 
 The 1D protein sequence contains information about amino acid residues, but not about essential topological information. On the other hand, 3D structure gives topological annotation and visualization of domain interactions but lacks amino acid residue information and is difficult to comprehend biological function. 1D representation maps contain both sequence information and 3D domain assembly, allowing biologists to grasp residue connections and, ultimately, function.
 
-**2. Why is it significant?**
+## 2. Why is it significant?
 
 The immune system relies heavily on Ig domains. They detect foreign antigens, bind the receptor binding domain (RBD), and eliminate antigens from the biological system. IgV domains are especially essential because of the variable region's capacity to bind novel antigens and RBDs. Visualizing domain folds and RBD binding in 1D maps will reveal areas with insertions and/or mutations that impede the immune system from identifying pathogens. 1D maps will be used to discover novel treatment targets.
 
-**3. Objectives**
+## 3. Objectives
 
 **Visualization of 1D maps:** construct a 1D map of Ig domains that non-experts can comprehend.
 
@@ -16,7 +16,7 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 
 **Generate 1D maps for domains that have no preceding 3D annotation:** Employing machine learning, identify the main traits in order to construct innovative 1D maps from sequence data.
 
-**4. What is ProteinContactMaps?**
+## 4. What is ProteinContactMaps?
 
 1. iCn3D parses a structure to get a list of residue contacts.
 2. The relevant sequence is retrieved and the numbering of the sequences is synchronized. This approach is required to build a correspondence in the 1D map positions in order to compare two or more sequences. When available, we utilize the Kabat reference sequence number. This need can be eased by matching the protein sequences to be compared and assigning a sequence number to match the alignment.
@@ -25,7 +25,7 @@ The immune system relies heavily on Ig domains. They detect foreign antigens, bi
 5. If no template exists, a fresh 1D plot based on residue contact information must be created. Based on the information from the contact map, this technique is being constructed.
 6. When a template as a modification of the previous template is available, a new 1D ProteinContactMaps can be constructed. This is an advantageous method for comparing ProteoMaps. Color coding 1D attributes acquired in the improved 1D sequence can be used to enhance ProteoMaps.
 
-**5. How to use ProteoMap?**
+## 5. How to use ProteoMap?
 
 scripts/excel_template.py -> can be called with a parameter 1 or 0 from command line where the value 1 creates the template(s) with the color coding for the contact maps and 0 creates the standard ones.
 
@@ -42,8 +42,7 @@ scripts/contacts.sh -> Contact counting is generated with the script contacts.sh
 data/output and data/output2 -> folder where the colorized (by number of contacts) outputs are stored.5. 
 
 
-**Team**
-
+## Team
 * Umesh Khaniya
 * Chirag Patel
 * Caesar Tawfeeq
@@ -53,7 +52,7 @@ data/output and data/output2 -> folder where the colorized (by number of contact
 * Philippe Youkharibache
 
 
-**References**
+## References
 1. Wang, J., Youkharibache, P., Marchler-Bauer, A., Lanczycki, C., Zhang, D., Lu, S., ... & Ge, Y. (2022). iCn3D: From Web-Based 3D Viewer to Structural Analysis Tool in Batch Mode. Frontiers in Molecular Biosciences, 102.
 
 2. Youkharibache, P. (2021). Topological and Structural Plasticity of the single Ig fold and the double Ig fold present in CD19. Biomolecules, 11(9), 1290.
